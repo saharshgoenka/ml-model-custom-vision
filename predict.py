@@ -22,7 +22,7 @@ credentials = ApiKeyCredentials(in_headers={'Prediction-key':key})
 # Create client, which will be used to make predictions
 client = CustomVisionPredictionClient(endpoint, credentials)
 
-image = 'testing-images/ge.png'
+image = 'testing-images/aus.png'
 
 # Open the test file
 with open(image, 'rb') as image:
