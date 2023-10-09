@@ -148,7 +148,7 @@ Now we can perform our prediction! We'll be using one of the images in the testi
     client = CustomVisionPredictionClient(endpoint, credentials)
     
     # Open the test file
-    with open('testing-images/american-staffordshire-terrier-10.jpg', 'rb') as image:
+    with open('../testing-images/american-staffordshire-terrier-10.jpg', 'rb') as image:
         # Perform the prediction
         results = client.classify_image(project_id, published_name, image.read())
     

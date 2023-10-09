@@ -33,9 +33,9 @@ The instructions for this workshop assume you are using [Visual Studio Code](htt
 
 ## The workshop
 
-- [Part 0: Install and configure tools](./setup.md)
-- [Part 1: Train your model](./train.md)
-- [Part 2: Test your model](./predict.md)
+- [Part 0: Install and configure tools](part-0-setup.md)
+- [Part 1: Train your model](part-1-train.md)
+- [Part 2: Test your model](part-2-predict.md)
 
 
 [Code of Conduct](../../CODE_OF_CONDUCT.md)

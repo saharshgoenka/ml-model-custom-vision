@@ -9,7 +9,7 @@ A project is a custom vision model. It's used to label images with the appropria
 1. Navigate to [Custom Vision](https://www.customvision.ai?WT.mc_id=academic-49102-chrhar) and sign in
 1. Select **New Project**
 1. Enter **Dog Classification** for the project name
-1. Next to Resource, select the key you created earlier, which will use the name you created during the [setup](setup.md).
+1. Next to Resource, select the key you created earlier, which will use the name you created during the [setup](part-0-setup.md).
 1. For **Project Types** select **Classification**
 1. For **Classification Types** select **Multiclass**, as our dogs will only have one breed
 1. For **Domains** select **General \[A2\]**
@@ -38,4 +38,4 @@ Once the project is created it's time to upload images. These images are used to
 
 ## Summary
 
-Congratulations! You have trained up a custom vision model which can detect dog types. Next you'll [test and use the model](./predict.md).
+Congratulations! You have trained up a custom vision model which can detect dog types. Next you'll [test and use the model](part-2-predict.md).

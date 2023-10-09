@@ -64,4 +64,4 @@ We'll create these keys by using the Azure portal.
 
 ## Summary
 
-You now have all the necessary tools for creating and using a custom vision model. The next step is to [train the model](./train.md).
+You now have all the necessary tools for creating and using a custom vision model. The next step is to [train the model](part-1-train.md).
